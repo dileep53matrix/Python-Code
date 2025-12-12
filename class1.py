@@ -71,6 +71,7 @@ else:
         print("Fibonacci sequence:", fibonacci)
 
 
+
 #WAP create list 
 list =[1,2,6]
 
@@ -87,4 +88,5 @@ list =[1,2,6]
 #     print("not in list")
 
 # list.append(el)
+
 len(list)
