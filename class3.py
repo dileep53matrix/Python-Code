@@ -5,7 +5,6 @@ marks = []
 for i in range(6):
     mark = int(input(f" Enter the mark{i+1}:"))
     marks.append(mark)
-
 #length
 n = len(marks)
 print(len(marks))
@@ -19,4 +18,5 @@ for i in range(n-1):
 #display the marks
 print("\n Marks highest to lowest :")
 for mark in marks:
+
     print(mark)
