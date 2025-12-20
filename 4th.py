@@ -17,7 +17,6 @@
 # print(dict["Dileep"])
 
 #nested dictionary
-
 # student = {
 #   "name" : "Dileep",
 # "score" : {
@@ -100,3 +99,4 @@ values = {
 
 
 print(values)
+
