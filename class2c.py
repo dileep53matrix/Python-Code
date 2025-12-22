@@ -9,7 +9,6 @@ else:
 
     elif N == 2:
         print("Fibonacci seq",fibonacci)
-
     else:
         for i in range(1,N):
             next_term = fibonacci[i-1]+fibonacci[i-2]
@@ -17,3 +16,4 @@ else:
 
 
     print("Fibonacci seq ", fibonacci)
+
