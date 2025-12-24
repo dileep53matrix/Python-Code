@@ -10,7 +10,6 @@
 # age = 19 
 # old = False 
 # a = None 
-
 # print(type(age))
 
 # print(type(old))
@@ -99,5 +98,6 @@
 
 # a = int(input("enter x :"))
 # b = int(input("enter y :"))
+
 
 # print(a >= b)
