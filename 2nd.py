@@ -4,7 +4,6 @@
 # str2 = ("Dileep")
 # str3 = ("learning python is a new skill for me.")
 # str4 = "dileep choudhary"
-
 # print(str1 + " " +str2 + " " + str3) 
 # print(len(str1))
 # print(len(str2))
@@ -132,4 +131,5 @@ rem = num%12
 if( rem == 0):
     print("yes ,it is multiple of 12")
 else:
+
     print("no, it is not multiple of 12")
