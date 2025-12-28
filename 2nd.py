@@ -128,8 +128,10 @@ num = int(input("enter number:"))
 
 rem = num%12
 
+
 if( rem == 0):
     print("yes ,it is multiple of 12")
 else:
 
     print("no, it is not multiple of 12")
+
