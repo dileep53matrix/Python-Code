@@ -1,5 +1,4 @@
 # Program to read 6 subject marks and display them from highest to lowest using Bubble Sort 
-
 marks = []
 # 6 subject marks
 for i in range(6):
@@ -20,3 +19,4 @@ print("\n Marks highest to lowest :")
 for mark in marks:
 
     print(mark)
+
