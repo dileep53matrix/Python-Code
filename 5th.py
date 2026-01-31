@@ -1,3 +1,4 @@
+
 # lecture  Loops
 # i = 1 
 # while i <= 100:
@@ -123,4 +124,5 @@
 
 # for i in range (1,20):
 #     pass
+
 # print("dileep")
