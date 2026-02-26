@@ -73,4 +73,5 @@ tup = ["c" ,"d", "a", "a", "b", "b" , "a"]
 list = tup
 print(list.sort())
 print(list)
+
 # print(tup.count("a"))  
